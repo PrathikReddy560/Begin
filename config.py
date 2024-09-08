@@ -1,2 +1,2 @@
-print("Git-Tutorial1")
-print("config.js1")
+print("Git-Tutorial2")
+print("config.js2")
