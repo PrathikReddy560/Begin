@@ -1,2 +1,2 @@
-print("src/index3")
+print("src/index1")
 print("index.py")
